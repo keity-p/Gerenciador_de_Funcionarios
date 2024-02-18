@@ -1,5 +1,6 @@
 # Gerenciador de Funcionários
-Gerenciador de Funcionários utilizando a Linguagem de Programação Python.
+Gerenciador de Funcionários utilizando a Linguagem de Programação Python!
+Após 10 dias aprendendo Python do zero na SoulCode Academy, realizamos esse pequeno projeto.
 
 INTEGRANTES:
 - Renato Caldara
